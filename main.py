@@ -20,7 +20,7 @@ admins = json.load(adminsOpen)
 
 clProfile = cl.getProfile()
 clMID = cl.profile.mid
-admin=['u7760fe50542a165f561fe63f4dada95a', clMID]
+admin=['uec6d62c3e4a61f033332bc1d86133e49', clMID]
 
 setTime = {}
 setTime = read['wait2']['setTime']
